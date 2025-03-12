@@ -1,2 +1,2 @@
 # sigma-demo
-This is Demo
+This is Demo.
